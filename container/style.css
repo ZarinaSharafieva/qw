@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background: #c0f7df;
+    border: 1px;
+    border-color: rgb(14, 142, 99);
+    padding: 20px 50px;
+}
